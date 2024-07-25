@@ -7,9 +7,6 @@ Sou um Engenheiro de Dados apaixonado por resolver problemas e transformar dados
 - Uso diário: Python 🐍
 - Ciência de dados: Jupyter Notebook 📊
 - Engenharia de dados: SQL, Python 🛠️
-- Python: <i class="fab fa-python"></i>
-- PostgreSQL: <i class="fab fa-database"></i>
-- Databricks: <i class="fab fa-databricks"></i>
 
 ## Principais Repositórios
 Aqui estão alguns dos meus projetos no GitHub:
