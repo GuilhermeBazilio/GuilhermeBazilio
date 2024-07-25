@@ -4,9 +4,11 @@
 Sou um Engenheiro de Dados apaixonado por resolver problemas e transformar dados em insights valiosos. Meu foco está nos processos de coleta, estruturação e pré-processamento de dados, bem como no desenvolvimento de modelos analíticos. Atualmente, moro em Morro Reuter, Rio Grande do Sul, Brasil.
 
 ## Linguagens e Ferramentas
-- Uso diário: Python 🐍
-- Ciência de dados: Jupyter Notebook 📊
-- Engenharia de dados: SQL, Python 🛠️
+<div class="imagens-container">
+    <img src="url_da_imagem1" width="100" alt="Logo do imagem1">
+    <img src="url_da_imagem2" width="100" alt="Logo do imagem2">
+    <img src="url_da_imagem2" width="100" alt="Logo do imagem3">
+</div>
 
 ## Principais Repositórios
 Aqui estão alguns dos meus projetos no GitHub:
