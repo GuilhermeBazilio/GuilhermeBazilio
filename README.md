@@ -17,8 +17,8 @@ Sou um Engenheiro de Dados com bastante experiência em resolver problemas e tra
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="75" alt="Logo Apache Spark">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="75" alt="Logo Azure">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="75" alt="Logo Anaconda">
-    <img src="https://github.com/user-attachments/assets/66bb0929-3cc7-4720-af58-d09925c3b85f" width="75" alt="Logo do imagem3">
-    <img src="url_da_imagem2" width="75" alt="Logo do imagem3">
+    <img src="https://github.com/user-attachments/assets/66bb0929-3cc7-4720-af58-d09925c3b85f" width="75" alt="Logo AWS">
+    <img src="https://github.com/user-attachments/assets/90125f94-fb4f-4863-b250-592118ed07f2" width="100" alt="Logo Snoflake">
     <img src="url_da_imagem2" width="75" alt="Logo do imagem3">
     
 </div>
