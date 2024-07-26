@@ -1,6 +1,4 @@
-# Guilherme Bazilio 👋
-
-## Sobre mim
+## Sobre
 Sou um Engenheiro de Dados com bastante experiência em resolver problemas e transformar dados em insights valiosos. Meu foco está nos processos de coleta, estruturação e pré-processamento de dados, bem como no desenvolvimento de modelos analíticos. Como engenheiro de dados, trabalhei em diversos projetos de BI através de empresas de consultoria. Também trabalhei em migração de dados de ERP legado para o SAP. Antes disso, atuei cerca de uma década como desenvolvedor de software, com foco em ERP. Atualmente, moro em Morro Reuter, Rio Grande do Sul, Brasil.
 
 <div> 
