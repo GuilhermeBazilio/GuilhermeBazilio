@@ -42,9 +42,9 @@ Competências: Proficiência em ferramentas de ETL, ambientes de nuvem, bancos d
 ## Principais Repositórios
 Aqui estão alguns dos meus projetos no GitHub:
 
-- [Data_Science](https://github.com/GuilhermeBazilio/): Portfólio com análises e projetos de Data Science em Python.
-- [Engenharia_de_Dados](https://github.com/GuilhermeBazilio/): Estudos e projetos relacionados à engenharia de dados.
-- [SQL_Data_Analysis](https://github.com/GuilhermeBazilio/): Consultas a Banco de Dados utilizando linguagem SQL, do básico ao avançado.
+- [Data Warehouse - Time de futebo]([https://github.com/GuilhermeBazilio/](https://github.com/GuilhermeBazilio/idososfc)): Data Warehouse de um time de futebol, utilizando Apache Hop e Azure SQL Server.
+- [DBT Project]([https://github.com/GuilhermeBazilio/](https://github.com/GuilhermeBazilio/dbtproject)): Projeto de transofrmações de dados, utilizando DBT.
+- [SQL_Data_Analysis]([https://github.com/GuilhermeBazilio/](https://github.com/GuilhermeBazilio/duckDB)): Análise de dados utilizando Duckb em Python.
 
 <b> :chart_with_upwards_trend: Estatísticas</b>:
 
