@@ -1,5 +1,7 @@
 ## Sobre
-Sou um Engenheiro de Dados com bastante experiência em resolver problemas e transformar dados em insights valiosos. Meu foco está nos processos de coleta, estruturação e pré-processamento de dados, bem como no desenvolvimento de modelos analíticos. Como engenheiro de dados, trabalhei em diversos projetos de BI através de empresas de consultoria. Também trabalhei em migração de dados de ERP legado para o SAP. Antes disso, atuei cerca de uma década como desenvolvedor de software, com foco em ERP. Atualmente, moro em Morro Reuter, Rio Grande do Sul, Brasil.
+Engenheiro de Dados com ampla experiência em ETL, migração de dados e desenvolvimento de software. Atuou em empresas como Neoris, Infointelligence, GIBS TI, CIGAM Software e Grupo FCC.
+Formação Acadêmica: MBA em Engenharia de Dados, Gestão de Tecnologia da Informação e Ciência da Computação.
+Competências: Proficiência em ferramentas de ETL, ambientes de nuvem, bancos de dados, arquiteturas de Datawarehouse e Data Lake, ferramentas de dashboard e linguagens de programação. Atualmente, moro em Morro Reuter, Rio Grande do Sul, Brasil.
 
 <div> 
   <a href = "mailto:bazilio.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -10,31 +12,31 @@ Sou um Engenheiro de Dados com bastante experiência em resolver problemas e tra
 ## Linguagens e Ferramentas
 
 <div class="ferramentas-e-linguagens" style="display: flex; justify-content: space-around;">    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="75" alt="Logo Python">    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="75" alt="Logo Jupyter">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="75" alt="Logo Anaconda">            
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="75" alt="Logo Git">            
-    <img src="https://github.com/user-attachments/assets/cb8aa112-6bf4-406e-80e1-291e7dae8c4f" width="100" alt="Logo DBT">    
-    <img src="https://github.com/user-attachments/assets/8e7aad3e-e740-491c-917e-e6c0eb1e88d4" width="75" alt="Logo Apache Hop"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="75" alt="Logo Airflow">    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="75" alt="Logo Apache Spark">    
-    <img src="https://github.com/user-attachments/assets/1e5493d8-8501-4d7d-90a5-e7f51784e033" width="150" alt="Logo Data Factory">        
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="75" alt="Logo Visual Basic">    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" alt="Logo Python">    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50" alt="Logo Jupyter">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="50" alt="Logo Anaconda">            
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" alt="Logo Git">            
+    <img src="https://github.com/user-attachments/assets/cb8aa112-6bf4-406e-80e1-291e7dae8c4f" width="75" alt="Logo DBT">    
+    <img src="https://github.com/user-attachments/assets/8e7aad3e-e740-491c-917e-e6c0eb1e88d4" width="50" alt="Logo Apache Hop"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="50" alt="Logo Airflow">    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="50" alt="Logo Apache Spark">    
+    <img src="https://github.com/user-attachments/assets/1e5493d8-8501-4d7d-90a5-e7f51784e033" width="100" alt="Logo Data Factory">        
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="50" alt="Logo Visual Basic">    
 </div>
 
 <div class="bancos-de-dados" style="display: flex; justify-content: space-around;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="70" alt="Logo Azure SQL">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"  width="70" alt="Logo SQL Server">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="75" alt="Logo Oracle">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="75" alt="Logo Postgresql">
-    <img src="https://github.com/user-attachments/assets/90125f94-fb4f-4863-b250-592118ed07f2" width="100" alt="Logo Snoflake">
-    <img src="https://github.com/user-attachments/assets/a264d925-ed2c-4e7a-bdae-6c320cf725b4" width="100" alt="Logo Redshift">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50" alt="Logo Oracle">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="Logo Postgresql">
+    <img src="https://github.com/user-attachments/assets/90125f94-fb4f-4863-b250-592118ed07f2" width="75" alt="Logo Snoflake">
+    <img src="https://github.com/user-attachments/assets/a264d925-ed2c-4e7a-bdae-6c320cf725b4" width="75" alt="Logo Redshift">
            
 </div>
 
 <div class="nuvens" style="display: flex; justify-content: space-around;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="75" alt="Logo Azure">
-    <img src="https://github.com/user-attachments/assets/66bb0929-3cc7-4720-af58-d09925c3b85f" width="75" alt="Logo AWS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="50" alt="Logo Azure">
+    <img src="https://github.com/user-attachments/assets/66bb0929-3cc7-4720-af58-d09925c3b85f" width="50" alt="Logo AWS">
 </div>
 
 ## Principais Repositórios
@@ -56,10 +58,4 @@ Aqui estão alguns dos meus projetos no GitHub:
 
 <br></br>
 
-
- 
-
-
-## Contato
-Você pode me encontrar no LinkedIn ou enviar uma mensagem aqui mesmo no GitHub. Vamos conectar e trocar ideias! 😊
 
