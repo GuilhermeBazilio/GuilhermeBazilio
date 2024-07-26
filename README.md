@@ -19,7 +19,8 @@ Sou um Engenheiro de Dados com bastante experiência em resolver problemas e tra
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="75" alt="Logo Anaconda">
     <img src="https://github.com/user-attachments/assets/66bb0929-3cc7-4720-af58-d09925c3b85f" width="75" alt="Logo AWS">
     <img src="https://github.com/user-attachments/assets/90125f94-fb4f-4863-b250-592118ed07f2" width="100" alt="Logo Snoflake">
-    <img src="https://github.com/user-attachments/assets/a264d925-ed2c-4e7a-bdae-6c320cf725b4" width="100" alt="Logo do imagem3">
+    <img src="https://github.com/user-attachments/assets/a264d925-ed2c-4e7a-bdae-6c320cf725b4" width="100" alt="Logo Redshift">
+    <img src="https://github.com/user-attachments/assets/cb8aa112-6bf4-406e-80e1-291e7dae8c4f" width="100" alt="Logo DBT">    
 </div>
 
 ## Principais Repositórios
