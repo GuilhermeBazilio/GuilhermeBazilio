@@ -1,13 +1,26 @@
 # Guilherme Bazilio 👋
 
 ## Sobre mim
-Sou um Engenheiro de Dados apaixonado por resolver problemas e transformar dados em insights valiosos. Meu foco está nos processos de coleta, estruturação e pré-processamento de dados, bem como no desenvolvimento de modelos analíticos. Atualmente, moro em Morro Reuter, Rio Grande do Sul, Brasil.
+Sou um Engenheiro de Dados com bastante experiência em resolver problemas e transformar dados em insights valiosos. Meu foco está nos processos de coleta, estruturação e pré-processamento de dados, bem como no desenvolvimento de modelos analíticos. Como engenheiro de dados, trabalhei em diversos projetos de BI através de empresas de consultoria. Também trabalhei em migração de dados de ERP legado para o SAP. Antes disso, atuei cerca de uma década como desenvolvedor de software, com foco em ERP. Atualmente, moro em Morro Reuter, Rio Grande do Sul, Brasil.
 
 ## Linguagens e Ferramentas
 <div class="imagens-container">
-    <img src="url_da_imagem1" width="100" alt="Logo do imagem1">
-    <img src="url_da_imagem2" width="100" alt="Logo do imagem2">
-    <img src="url_da_imagem2" width="100" alt="Logo do imagem3">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="70" alt="Logo Azure SQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"  width="70" alt="Logo SQL Server">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="75" alt="Logo Oracle">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="75" alt="Logo Postgresql">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" width="75" alt="Logo Airflow">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="75" alt="Logo Jupyter">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="75" alt="Logo Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="75" alt="Logo Visual Basic">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="75" alt="Logo Git">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" width="75" alt="Logo Apache Spark">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="75" alt="Logo Azure">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" width="75" alt="Logo Anaconda">
+    <img src="url_da_imagem2" width="75" alt="Logo do imagem3">
+    <img src="url_da_imagem2" width="75" alt="Logo do imagem3">
+    <img src="url_da_imagem2" width="75" alt="Logo do imagem3">
+    
 </div>
 
 ## Principais Repositórios
