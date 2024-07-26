@@ -25,8 +25,8 @@ Competências: Proficiência em ferramentas de ETL, ambientes de nuvem, bancos d
 </div>
 
 <div class="bancos-de-dados" style="display: flex; justify-content: space-around;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="70" alt="Logo Azure SQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"  width="70" alt="Logo SQL Server">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" alt="Logo Azure SQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"  width="50" alt="Logo SQL Server">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="50" alt="Logo Oracle">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="Logo Postgresql">
     <img src="https://github.com/user-attachments/assets/90125f94-fb4f-4863-b250-592118ed07f2" width="75" alt="Logo Snoflake">
