@@ -21,6 +21,7 @@ Sou um Engenheiro de Dados com bastante experiência em resolver problemas e tra
     <img src="https://github.com/user-attachments/assets/90125f94-fb4f-4863-b250-592118ed07f2" width="100" alt="Logo Snoflake">
     <img src="https://github.com/user-attachments/assets/a264d925-ed2c-4e7a-bdae-6c320cf725b4" width="100" alt="Logo Redshift">
     <img src="https://github.com/user-attachments/assets/cb8aa112-6bf4-406e-80e1-291e7dae8c4f" width="100" alt="Logo DBT">    
+    <img src="https://github.com/user-attachments/assets/8e7aad3e-e740-491c-917e-e6c0eb1e88d4" width="75" alt="Logo Apache Hop">        
 </div>
 
 ## Principais Repositórios
