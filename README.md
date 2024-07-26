@@ -35,7 +35,7 @@ Competências: Proficiência em ferramentas de ETL, ambientes de nuvem, bancos d
 </div>
 
 <div class="nuvens" style="display: flex; justify-content: space-around;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="50" alt="Logo Azure">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original-wordmark.svg" width="65" alt="Logo Azure">
     <img src="https://github.com/user-attachments/assets/66bb0929-3cc7-4720-af58-d09925c3b85f" width="50" alt="Logo AWS">
 </div>
 
