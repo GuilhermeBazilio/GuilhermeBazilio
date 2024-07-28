@@ -1,5 +1,5 @@
 ## Sobre
-Engenheiro de Dados com ampla experiência em ETL, migração de dados e desenvolvimento de software. Atuou em empresas como Neoris, Infointelligence, GIBS TI, CIGAM Software e Grupo FCC.
+Engenheiro de Dados com ampla experiência em ETL, migração de dados e desenvolvimento de software. Atuei em empresas como Neoris, Infointelligence, GIBS TI, CIGAM Software e Grupo FCC.
 Formação Acadêmica: MBA em Engenharia de Dados, Gestão de Tecnologia da Informação e Ciência da Computação.
 Competências: Proficiência em ferramentas de ETL, ambientes de nuvem, bancos de dados, arquiteturas de Datawarehouse e Data Lake, ferramentas de dashboard e linguagens de programação. Atualmente, moro em Morro Reuter, Rio Grande do Sul, Brasil.
 
