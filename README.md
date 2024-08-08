@@ -2,14 +2,23 @@
 Engenheiro de Dados com ampla experiência em ETL, migração de dados e desenvolvimento de software. Atuei em empresas como Neoris, Infointelligence, GIBS TI, CIGAM Software e Grupo FCC.
 Formação Acadêmica: MBA em Engenharia de Dados, Gestão de Tecnologia da Informação e Ciência da Computação.
 Competências: Proficiência em ferramentas de ETL, ambientes de nuvem, bancos de dados, arquiteturas de Datawarehouse e Data Lake, ferramentas de dashboard e linguagens de programação. Atualmente, moro em Morro Reuter, Rio Grande do Sul, Brasil.
-
 <div> 
   <a href = "mailto:bazilio.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilherme-bazilio-a0200450/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
-## Linguagens e Ferramentas
+## About me
+Data Engineer with extensive experience in ETL, data migration and software development. I have worked for companies such as Neoris, Infointelligence, GIBS TI, CIGAM Software and FCC Group.
+Academic Background: MBA in Data Engineering, Information Technology Management and Computer Science.
+Skills: Proficiency in ETL tools, cloud environments, databases, Datawarehouse and Data Lake architectures, dashboard tools and programming languages. I currently live in Morro Reuter, Rio Grande do Sul, Brazil.
+<div> 
+  <a href = "mailto:bazilio.developer@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/guilherme-bazilio-a0200450/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+## Linguagens e Ferramentas (Languages ​​and Tools)
 
 <div class="ferramentas-e-linguagens" style="display: flex; justify-content: space-around;">    
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="50" alt="Logo Python">    
@@ -43,10 +52,17 @@ Competências: Proficiência em ferramentas de ETL, ambientes de nuvem, bancos d
 Aqui estão alguns dos meus projetos no GitHub:
 
 - [Data Warehouse](https://github.com/GuilhermeBazilio/idososfc): Data Warehouse de um time de futebol, utilizando Apache Hop e Azure SQL Server.
-- [SQL Data Analysis](https://github.com/GuilhermeBazilio/duckDB): Análise de dados utilizando Duckb em Python. 
-- [Data Transform](https://github.com/GuilhermeBazilio/dbtproject): Projeto de transformações de dados, utilizando DBT.
+- [Análise de dados](https://github.com/GuilhermeBazilio/duckDB): Análise de dados utilizando Duckb em Python. 
+- [Transformação de dados](https://github.com/GuilhermeBazilio/dbtproject): Projeto de transformações de dados, utilizando DBT.
 
-<b> :chart_with_upwards_trend: Estatísticas</b>:
+## Main Repositories
+Here are some of my projects on GitHub:
+
+- [Data Warehouse](https://github.com/GuilhermeBazilio/idososfc): Data Warehouse for a football team, using Apache Hop and Azure SQL Server.
+- [SQL Data Analysis](https://github.com/GuilhermeBazilio/duckDB): Data analysis using Duckb in Python.
+- [Data Transform](https://github.com/GuilhermeBazilio/dbtproject): Data transformation design using DBT.
+
+<b> :chart_with_upwards_trend: Estatísticas (Statistcs)</b>:
 
 <a href="https://github.com/GuilhermeBazilio">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBazilio&show_icons=true&theme=dark&include_commits=true"/>
