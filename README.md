@@ -58,7 +58,7 @@ Aqui estão alguns dos meus projetos no GitHub:
 ## Main Repositories
 Here are some of my projects on GitHub:
 
-- [Data Warehouse](https://github.com/GuilhermeBazilio/idososfc): Data Warehouse for a football team, using Apache Hop and Azure SQL Server.
+- [Data Warehouse](https://github.com/GuilhermeBazilio/idososfc): Data Warehouse for a soccer team, using Apache Hop and Azure SQL Server.
 - [SQL Data Analysis](https://github.com/GuilhermeBazilio/duckDB): Data analysis using Duckb in Python.
 - [Data Transform](https://github.com/GuilhermeBazilio/dbtproject): Data transformation design using DBT.
 
